@@ -2,7 +2,6 @@
 Project:  ComingSoon
 Version:  
 Last change:  
-Assigned to:  Bach Le
 Primary use:  
 -------------------------------------------------------------------*/
 
@@ -338,7 +337,7 @@ input.input100 {
 /*---------------------------------------------*/
 .how-btn {
   padding: 0 20px;
-  background-color: #846add;
+  background-color: #02c1eb;
   border-radius: 5px;
 }
 
